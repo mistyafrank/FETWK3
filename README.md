@@ -1,3 +1,3 @@
 # FETWK3
 Front End Technologies Week 3 Coding Assignment:
-Bootstrap
+Coding with Bootstrap
